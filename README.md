@@ -20,6 +20,9 @@ Advanced Level Telecom Training Centre (ALTTC), Ghaziabad is the apex training i
   * Introduction To Cisco Packet Tracer
   * Connecting Routers
   * Understandiing DHCP and DNS
+  * VoIP - Voice Over Internet Protocol
+* Physical Tour of the BSNL Ghaziabad Facility
+* Project on "Virtual Local Area Network Configuration through Wi-Fi"
 
 
 
